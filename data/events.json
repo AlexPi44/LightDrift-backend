@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Superflare 2025-A1",
+    "x": -12.5,
+    "y": 22.8,
+    "z": -40.1,
+    "type": "solar_flare",
+    "timestamp": "2025-03-29T00:00:00Z"
+  },
+  {
+    "name": "CME Shockwave 2025-B7",
+    "x": 34.2,
+    "y": -18.4,
+    "z": 12.7,
+    "type": "coronal_mass_ejection",
+    "timestamp": "2025-03-28T23:55:00Z"
+  }
+]
